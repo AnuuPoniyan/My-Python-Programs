@@ -76,7 +76,3 @@
   - A voice assistant application capable of performing various tasks such as playing music, and providing information.
 - **Mega Project 2: AI AutoReply Bot**
   - An AI-based bot designed to automatically reply to messages, enhancing communication efficiency.
-
-## Problem Sets
-
-Each chapter contains problem sets to test your understanding and to practice coding. The problem sets include various challenges and exercises relevant to the chapter's content.
